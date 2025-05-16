@@ -34,6 +34,15 @@ Build an AI Assistant that:
 
   * Provide helpful, human-readable responses.
 
+
+# 📃 Demo Screenshots
+
+### Main Page
+![Main Page](Demo/1.png)
+
+### Answer Questions
+![Answer Questions](Demo/2.png)
+
 # 🔧 Requirements
 
 1. Install Dependecies
